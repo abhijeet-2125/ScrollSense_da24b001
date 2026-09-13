@@ -2,7 +2,7 @@
 
 **Author:** Abhijeet Kumar (DA24B001)  
 **Programme:** B.Tech in AI & Data Analytics, IIT Madras  
-**Database:** SQLite 3.44+
+**Database:** SQLite 3.52.2
 
 ---
 
